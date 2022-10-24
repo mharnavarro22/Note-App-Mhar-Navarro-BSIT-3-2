@@ -1,7 +1,7 @@
 const read = require ('./read')
 const add = require ('./add')
 const del = require('./del')
-// const present = require('./present')
+const present = require('./present')
 const update = require('./update')
 
 const data = process.argv
